@@ -1,0 +1,7 @@
+C:\Users\jschudel\source\repos\TasksTPL\Probierobjekt\bin\Debug\Probierobjekt.exe.config
+C:\Users\jschudel\source\repos\TasksTPL\Probierobjekt\bin\Debug\Probierobjekt.exe
+C:\Users\jschudel\source\repos\TasksTPL\Probierobjekt\bin\Debug\Probierobjekt.pdb
+C:\Users\jschudel\source\repos\TasksTPL\Probierobjekt\obj\Debug\Probierobjekt.csprojAssemblyReference.cache
+C:\Users\jschudel\source\repos\TasksTPL\Probierobjekt\obj\Debug\Probierobjekt.csproj.CoreCompileInputs.cache
+C:\Users\jschudel\source\repos\TasksTPL\Probierobjekt\obj\Debug\Probierobjekt.exe
+C:\Users\jschudel\source\repos\TasksTPL\Probierobjekt\obj\Debug\Probierobjekt.pdb

@@ -1,0 +1,7 @@
+C:\Users\jschudel\source\repos\TasksTPL\TasksTPL\bin\Debug\TasksTPL.exe.config
+C:\Users\jschudel\source\repos\TasksTPL\TasksTPL\bin\Debug\TasksTPL.exe
+C:\Users\jschudel\source\repos\TasksTPL\TasksTPL\bin\Debug\TasksTPL.pdb
+C:\Users\jschudel\source\repos\TasksTPL\TasksTPL\obj\Debug\1.0 TasksTPL.csprojAssemblyReference.cache
+C:\Users\jschudel\source\repos\TasksTPL\TasksTPL\obj\Debug\1.0 TasksTPL.csproj.CoreCompileInputs.cache
+C:\Users\jschudel\source\repos\TasksTPL\TasksTPL\obj\Debug\TasksTPL.exe
+C:\Users\jschudel\source\repos\TasksTPL\TasksTPL\obj\Debug\TasksTPL.pdb

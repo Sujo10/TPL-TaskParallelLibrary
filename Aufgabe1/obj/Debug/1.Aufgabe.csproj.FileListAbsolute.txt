@@ -1,0 +1,7 @@
+C:\Users\jschudel\source\repos\TasksTPL\Aufgabe1\bin\Debug\Aufgabe1.exe.config
+C:\Users\jschudel\source\repos\TasksTPL\Aufgabe1\bin\Debug\Aufgabe1.exe
+C:\Users\jschudel\source\repos\TasksTPL\Aufgabe1\bin\Debug\Aufgabe1.pdb
+C:\Users\jschudel\source\repos\TasksTPL\Aufgabe1\obj\Debug\1.Aufgabe.csprojAssemblyReference.cache
+C:\Users\jschudel\source\repos\TasksTPL\Aufgabe1\obj\Debug\1.Aufgabe.csproj.CoreCompileInputs.cache
+C:\Users\jschudel\source\repos\TasksTPL\Aufgabe1\obj\Debug\Aufgabe1.exe
+C:\Users\jschudel\source\repos\TasksTPL\Aufgabe1\obj\Debug\Aufgabe1.pdb
